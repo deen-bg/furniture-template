@@ -9,8 +9,13 @@ class home extends CI_Controller {
 		$this->load->helper('url');
 	}
 
+	
     public function index()
 	{
 		$this->load->view('home');
+	}
+	public function test()
+	{
+		
 	}
 }

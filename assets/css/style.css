@@ -86,7 +86,7 @@ a:hover {
   text-decoration: none;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 /*--------------------------------------------------------------
@@ -151,7 +151,7 @@ a:hover {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #3498db;
+  color: #b8a36c;
 }
 .navbar .dropdown ul {
   display: block;
@@ -265,7 +265,7 @@ a:hover {
   color: #384046;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #3498db;
+  color: #b8a36c;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -350,7 +350,7 @@ a:hover {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 0px 0;
 }
 
 /* .section-bg {
@@ -364,8 +364,8 @@ section {
 .section-title h2 {
   font-size: 32px;
   font-weight: 600;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
   position: relative;
 }
 /* .section-title h2::before {
@@ -1074,7 +1074,7 @@ section {
   }
   #Services-1{
     text-align: center;
-    color: #ff1616;
+    color: #b8a36c;
     font-size: 26px;
     font-weight: 500;
 margin-top: 27px;
@@ -1083,7 +1083,7 @@ margin-top: 27px;
   #hero {
     width: 100%;
     height: 27vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 80px;
@@ -1124,7 +1124,7 @@ margin-left:22%;
     font-size: 32px;
 }
 #text-center1{
-  color: #ff1616;
+  color: #b8a36c;
   font-weight: bolder;
   font-size: 39px;
 }
@@ -1136,14 +1136,14 @@ margin-left:22%;
   font-weight: bolder;
   font-size: 16px;
   margin: 0;
-  margin-top: 8px;
-  margin-bottom: 21px;
+  margin-top: 0px;
+  margin-bottom: 13px;
 color: #777777
 }
 #qrcode{
-  width: 80%;
+  width: 60%;
   
-  margin-left: 32px;
+  margin-left: 60px;
 }
 #followee1{
   font-size: 20px;
@@ -1181,7 +1181,7 @@ color: #777777
   #hero {
     width: 100%;
     height: 20vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 80px;
@@ -1189,7 +1189,7 @@ color: #777777
   }
   #Services-1{
     text-align: center;
-    color: #ff1616;
+    color: #b8a36c;
     font-size: 26px;
     font-weight: 500;
     margin-top: 27px;
@@ -1229,13 +1229,13 @@ margin-left: 23%;
     font-size: 32px;
 }
 #text-center1{
-  color: #ff1616;
+  color: #b8a36c;
   font-weight: bolder;
   font-size: 35px;
 }
 #portfolio{
   font-size: 30px;
-  margin-top: -69px;
+  margin-top: 0px;
 }
 #footer-1{
   font-weight: bolder;
@@ -1248,8 +1248,8 @@ color: #777777
 }
 #qrcode{
  
-  width: 80%;
-    margin-left: 36px;
+  width: 70%;
+    margin-left: 46px;
 }
 #followee1{
   font-size: 20px;
@@ -1290,8 +1290,8 @@ color: #777777
   }
   #hero {
     width: 100%;
-    height: 40vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    height: 34vh;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 80px;
@@ -1299,7 +1299,7 @@ color: #777777
   }
   #Services-1{
     text-align: center;
-    color: #ff1616;
+    color: #b8a36c;
     font-size: 26px;
     font-weight: 500;
     margin-top: 27px;
@@ -1338,20 +1338,20 @@ margin-left: 34%;
     font-size: 32px;
 }
 #text-center1{
-  color: #ff1616;
+  color: #b8a36c;
   font-weight: bolder;
   font-size: 35px;
 }
 #portfolio{
   font-size: 30px;
-  margin-top: -69px;
+  margin-top: 0px;
 }
 #footer-1{
   font-weight: bolder;
   font-size: 20px;
   margin: 0;
-  margin-top: 8px;
-  margin-bottom: 21px;
+  margin-top: 22px;
+  margin-bottom: 28px;
   margin-left: 5px;
 color: #777777
 }
@@ -1386,7 +1386,7 @@ color:#000000;
   #hero {
     width: 100%;
     height: 34vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 80px;
@@ -1510,7 +1510,7 @@ color: #777777;
  #hero {
     width: 100%;
     height: 70vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 74px;
@@ -1575,7 +1575,7 @@ color: #777777
   #hero {
     width: 100%;
     height: 34vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 80px;
@@ -1629,7 +1629,7 @@ margin-left: 34%;
 }
 #portfolio{
   font-size: 30px;
-  margin-top: -69px;
+  margin-top: 0px;
 }
 #footer-1{
   font-weight: bolder;
@@ -1701,7 +1701,7 @@ color: #777777;
   #hero {
     width: 100%;
     height: 70vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 74px;
@@ -1802,7 +1802,7 @@ margin-left: 34%;
   #hero {
     width: 100%;
     height: 70vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 74px;
@@ -1865,7 +1865,7 @@ color: #777777
   }
   #Services-1{
     text-align: center;
-    color: #ff1616;
+    color: #b8a36c;
     font-size: 45px;
     font-weight: 400;
    
@@ -1903,7 +1903,7 @@ margin-left: 24%;
   #hero {
     width: 100%;
     height: 76vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
     margin-top: 74px;
@@ -1918,7 +1918,7 @@ margin-left: 24%;
   font-size: 45px;
 }
 #text-center1{
-  color: #ff1616;
+  color: #b8a36c;
   font-weight: bolder;
   font-size: 39px;
 }
@@ -1926,7 +1926,7 @@ margin-left: 24%;
   font-weight: bolder;
   font-size:28px;
   margin: 0;
-  margin-top: 8px;
+  margin-top: 33px;
 color: #777777
 }
 #qrcode{
@@ -1967,7 +1967,7 @@ width: 69%;
   }
   #Services-1{
     text-align: center;
-    color: #ff1616;
+    color: #b8a36c;
     font-size: 45px;
     font-weight: 400;
    
@@ -1975,11 +1975,11 @@ width: 69%;
   }
   #hero {
     width: 100%;
-    height: 50vh;
-    background: url("../../assets/img/banner/banner1920x890.png") center center;
+    height: 33vh;
+    background: url("../../assets/img/banner/banner.jpg") center center;
     background-size: cover;
     position: relative;
-    margin-top: 62px;
+    margin-top: 69px;
     padding: 0;
   }
   #Services-2{
@@ -2017,7 +2017,7 @@ margin-left: 34%;
     margin-bottom: 35px;
 }
 #text-center1{
-  color: #ff1616;
+  color: #b8a36c;
   font-weight: bolder;
   font-size: 39px;
 }
@@ -2025,12 +2025,14 @@ margin-left: 34%;
   font-weight: bolder;
   font-size:25px;
   margin: 0;
-  margin-top: 8px;
+  margin-top:29px;
 color: #777777
 }
 #qrcode{
-  width: 80%;
+  width: 70%;
+  margin-left: 5rem;
 }
+
 #logofollowme{
   width: 4%;
 }

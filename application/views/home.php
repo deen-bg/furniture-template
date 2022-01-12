@@ -76,7 +76,7 @@
           <li><a class="nav-link scrollto" href="#contact">ติดต่อเรา</a></li>
           </li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
+        <i class="bi mobile-nav-toggle bi-list"></i>
       </nav>
     </div>
   </header>
@@ -185,72 +185,87 @@
     </div>
   </section> -->
 
+<br>
+<br>
+
 
 <section>
   <div class="container">
-  <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
-  <div data-aos="fade-up">
-      <div class="row  mb-5 MT-5">
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-self-center  ">
-              <h2  id="Services-1" ><b>งานก่อสร้าง</b> </h2>
-              <h4  class="mt-3 mb-3 align=left" id="Services-2-2" style="" >&bull;&nbsp;&nbsp;&nbsp;รับปลูกบ้านพักอาศัย</h4>
-              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp; อาคาร ,ตึก </h4>
-              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;โรงงาน และงานต่อเติมบ้าน</h4>
-             
-        </div>
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
-            <img src="<?=base_url('assets/img/portfolio/18705.jpg');?>" id="about-product" class="img-fluid ">
-        </div>
-  </div>
-  </div>
-  </div>
 
     <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
-       <div data-aos="fade-up">
-         <div class="row  mb-0">
- 
-              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6  d-none  d-md-none d-lg-block d-xl-block   ">
-                  <img src="<?=base_url('assets/img/portfolio/18716.jpg');?>" id="about-product" class="img-fluid ">
-              </div>
-              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 d-none  d-md-none d-lg-block d-xl-block align-self-center  ">
-                  <h2  id="Services-1" ><b>งานขออนุญาติก่อสร้างอาคาร</b> </h2>
-                  <h4 class="mt-3 mb-3" id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ยื่นขออนุญาตก่อสร้าง</h4>
-                  <h4  id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ไฟฟ้า, ประปา, โทรศัพท์ ฯลฯ</h4> 
-              </div>        
-          </div>
-
-        <div class="row  mb-5">
-          <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 d-block  d-md-block d-lg-none d-xl-none">
-            <h2   id="Services-1"  ><b>งาน Renovate</b> </h2>
-            <h4  class="mt-3 mb-3" id="Services-2">&bull;&nbsp;&nbsp;&nbsp;Renovateบ้าน</h4>
-            <h4   id="Services-2"> &bull;&nbsp;&nbsp;&nbsp;Renovateคอนโด</h4>
-          </div>
-    <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 d-block  d-md-block d-lg-none d-xl-none">
-            <img src="<?=base_url('assets/img/service/service-3.png');?>" id="about-product" class="img-fluid " style="width:100%"> 
+      <div data-aos="fade-up">
+        <div class="row  mb-5 MT-5">
+           <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-self-center  ">
+              <h2  id="Services-1" ><b>งานก่อสร้าง</b> </h2>
+              <h4  class="mt-3 mb-3 align=left" id="Services-2-2" style="" >&bull;&nbsp;&nbsp;&nbsp;รับปลูกบ้านพักอาศัย</h4>
+              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;อาคาร ,ตึก </h4>
+              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;โรงงาน และงานต่อเติมบ้าน</h4>
+           </div>
+           <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
+              <img src="<?=base_url('assets/img/portfolio/service1.png');?>" id="about-product" class="img-fluid ">
+           </div>
+        </div>
+      </div>
     </div>
-      </div>
-      </div>
-      </div>
 
-        <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
+    <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
       <div data-aos="fade-up">
         <div class="row  mb-0">
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-self-center  ">
-              <h2  id="Services-1" ><b>งานระบบต่างๆ</b> </h2>
-              <h4 class="mt-3 mb-3"  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;รับงานเดินระบบไฟ  </h4>
-              <h4  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;ระบบประปา </h4>
-              <h4  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;อาคารบ้านพักอาศัย</h4>
-      </div>
-        <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
-            <img src="<?=base_url('assets/img/portfolio/243027284_2084379695061402_6182264817615997662_n.jpg');?>" id="about-product" class="img-fluid ">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6  d-none  d-md-none d-lg-block d-xl-block   ">
+              <img src="<?=base_url('assets/img/portfolio/service2.png');?>" id="about-product" class="img-fluid ">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 d-none  d-md-none d-lg-block d-xl-block align-self-center  ">
+               <h2  id="Services-1" ><b>งานขออนุญาติก่อสร้างอาคาร</b> </h2>
+               <h4 class="mt-3 mb-3" id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ยื่นขออนุญาตก่อสร้าง</h4>
+               <h4  id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ไฟฟ้า, ประปา, โทรศัพท์ ฯลฯ</h4> 
+            </div>        
         </div>
-        </div>
       </div>
+   </div>
+
+   <br>
+   <br>
+
+   <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
+      <div data-aos="fade-up">
+        <div class="row  mb-5 MT-5">
+           <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-self-center  ">
+              <h2  id="Services-1" ><b>งานก่อสร้าง</b> </h2>
+              <h4  class="mt-3 mb-3 align=left" id="Services-2-2" style="" >&bull;&nbsp;&nbsp;&nbsp;งานระบบต่างๆ</h4>
+              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;รับงานเดินระบบไฟ  </h4>
+              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;ระบบประปา อาคารบ้านพักอาศัย</h4>
+           </div>
+           <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
+              <img src="<?=base_url('assets/img/portfolio/service3.png');?>" id="about-product" class="img-fluid ">
+           </div>
+        </div>
       </div>
     </div>
+
+    <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
+      <div data-aos="fade-up">
+        <div class="row  mb-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6  d-none  d-md-none d-lg-block d-xl-block   ">
+              <img src="<?=base_url('assets/img/portfolio/service4.png');?>" id="about-product" class="img-fluid ">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 d-none  d-md-none d-lg-block d-xl-block align-self-center  ">
+               <h2  id="Services-1" ><b>บริการตรวจสถานที่ก่อสร้าง</b> </h2>
+               <h4 class="mt-3 mb-3" id="Services-2">&bull;&nbsp;&nbsp;&nbsp;การตรวจสอบการดำเนินงานอย่างมีแบบแผนทุกขั้นตอน วัดหน้างาน  </h4>
+               <h4  id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ถ่ายภาพสถานที่  </h4> 
+            </div>        
+        </div>
+      </div>
+   </div>
+
+    
+  </div>
 </section>
+
+
 <br>
 <br>
+
+
   <section class="pt-3 pb-3" id="review">
       <div class="container wow fadeInUp" align="center">
         <div class="">
@@ -445,7 +460,7 @@
                       </figure>
                     </div>
                </div>
-               <!-- <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">  
+               <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">  
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
@@ -466,8 +481,7 @@
                         </div>
                       </figure>
                     </div>
-               </div>         
-                <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+               </div>          <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
@@ -488,7 +502,7 @@
                         </div>
                       </figure>
                     </div>
-               </div> -->
+               </div>
           </div>
           </div>
         </div>

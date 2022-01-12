@@ -5,27 +5,27 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CONPLUS รับสร้างบ้าน ต่อเติม รีโนเวท</title>
+  <title>Thaijapan-demo ปรึกษางานออกแบบตกแต่งภายใน  </title>
     <!-- Primary Meta Tags -->
-  <meta name="title" content="CONPLUS รับสร้างบ้าน ต่อเติม รีโนเวท">
-  <meta name="description" content="บริษัท คอนสตรัคชั่น พลัส 99 จำกัด เป็นบริษัทรับเหมาก่อสร้างครบวงจรที่พร้อมให้บริการลูกค้าอย่างเต็มที่">
-  <meta name="keywords" content="งานต่อเติม, ต่อเติมครัว, งาน Renovate, Renovateบ้าน, Renovateคอนโด, งานสร้างบ้านเดี่ยว">
+  <meta name="title" content="บริษัท Thai japan Construction ปรึกษางานออกแบบตกแต่งภายใน">
+  <meta name="description" content="บริษัท Thai japan Construction รับเหมาตกแต่งภายนอก ภายใน งานบิ้วอิน รับผลิตเฟอร์นิเจอร์ บิ้วอิน และลอยตัว ราคาโรงงาน">
+  <meta name="keywords" content="ปรึกษางานออกแบบตกแต่งภายใน, บริการออกแบบฟรี, ประมาณราคาฟรี, งานก่อสร้าง, งานระบบต่างๆ, บริการตรวจสถานที่ก่อสร้าง">
   <meta name="robots" content="index, follow">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="author" content="บริษัท คอนสตรัคชั่น พลัส 99 จำกัด">
+  <meta name="author" content="บริษัท Thai japan Construction ">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://constructionplus99.com/">
-  <meta property="og:title" content="CONPLUS รับสร้างบ้าน ต่อเติม รีโนเวท">
-  <meta property="og:description" content="บริษัท คอนสตรัคชั่น พลัส 99 จำกัด เป็นบริษัทรับเหมาก่อสร้างครบวงจรที่พร้อมให้บริการลูกค้าอย่างเต็มที่">
+  <meta property="og:url" content="https://thaijapan-demo.com/">
+  <meta property="og:title" content="Thaijapan ปรึกษางานออกแบบตกแต่งภายใน">
+  <meta property="og:description" content="บริษัท Thai japan Construction รับเหมาตกแต่งภายนอก ภายใน งานบิ้วอิน รับผลิตเฟอร์นิเจอร์ บิ้วอิน และลอยตัว ราคาโรงงาน">
   <meta property="og:image" content="">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://constructionplus99.com/">
-  <meta property="twitter:title" content="CONPLUS รับสร้างบ้าน ต่อเติม รีโนเวท">
-  <meta property="twitter:description" content="บริษัท คอนสตรัคชั่น พลัส 99 จำกัด เป็นบริษัทรับเหมาก่อสร้างครบวงจรที่พร้อมให้บริการลูกค้าอย่างเต็มที่">
+  <meta property="twitter:url" content="https://thaijapan-demo.com/">
+  <meta property="twitter:title" content="บริษัท Thai japan Construction ปรึกษางานออกแบบตกแต่งภายใน">
+  <meta property="twitter:description" content="บริษัท Thai japan Construction รับเหมาตกแต่งภายนอก ภายใน งานบิ้วอิน รับผลิตเฟอร์นิเจอร์ บิ้วอิน และลอยตัว ราคาโรงงาน">
   <meta property="twitter:image" content="">
 
 
@@ -50,19 +50,20 @@
 
 <style>
   body{
-    overflow-x: hidden;
+    background-image: url("assets/img/banner/BG.jpg");
   }  
 </style>
 
 </head>
 <body>
+ 
 <div class="container-fluid">
 
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
       <div class="logo me-auto">
-      <a href="index.html"><img src="<?=base_url('assets/img/logo/logocon+.png');?>" class="img-fluid" ></a>
+      <a href="index.html"><img src="<?=base_url('assets/img/logo/logo.png');?>" class="img-fluid" ></a>
       
       </div>
 
@@ -92,7 +93,7 @@
             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 pro-bottom" >
               <div class="card mb-3 "> 
                 <div class="d-flex  justify-content-center">
-                  <img src="<?=base_url('assets/img/icon/icon1.png');?>" style="width: 100%;" >
+                  <img src="<?=base_url('assets\img\iconban\icon1.png');?>" style="width: 100%;" >
                 </div>
               </div>                 
             </div>
@@ -101,7 +102,7 @@
         <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 pro-bottom">
             <div class="card mb-3 ">
                 <div class="d-flex  justify-content-center">
-                    <img src="<?=base_url('assets\img\icon\icon2.png');?>"  style="width: 100%;" >
+                    <img src="<?=base_url('assets\img\iconban\icon2.png');?>"  style="width: 100%;" >
                   </div>
                 </div>
               </div>
@@ -109,7 +110,7 @@
         <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 pro-bottom">
             <div class="card mb-3 ">
                 <div class="d-flex  justify-content-center">
-                  <img src="<?=base_url('assets\img\icon\icon3.png');?>"  style="width: 100%;">
+                  <img src="<?=base_url('assets\img\iconban\icon3.png');?>"  style="width: 100%;">
                 </div> 
               </div>
             </div>
@@ -126,15 +127,21 @@
       <div data-aos="fade-up">
         <div class="row">
           <div class="col-lg-12 pt-12 pt-lg-0">
-              <h3  style="color:#ff1616;">เกี่ยวกับเรา</h3>
+              <h3  style="color:#b8a36c;">เกี่ยวกับเรา</h3>
                 <p class="mt-3" id="text-about">
-                  บริษัท คอนสตรัคชั่น พลัส 99 จำกัด เป็นบริษัทรับเหมาก่อสร้างครบวงจร <br> ที่พร้อมให้บริการลูกค้าอย่างเต็มที่
+                เรามุ่งมั่นสร้างสรรงานคุณภาพ โดยมีปรัชญา การทำงานพื้นฐาน <br>
+                ที่สร้างจากความเข้าใจและ ตอบโจทย์ลูกค้าอย่างตรงตามความต้องการ 
+                เป็นสิ่งที่ลูกค้าจะได้รับจากเรา Thai japan Constructio คุณภาพของงานคือภาพสะท้อนของ บริษัท Thai japan Construction 
+                ที่พร้อมเสมอสำหรับงานชิ้นสำคัญ และลูกค้าคนสำคัญของเรา 
+                ไม่ว่าจะเป็นงานด้านสถาปัตยกรรมงาน ออกแบบตกแต่งภายใน งานก่อสร้างอาคาร  ร้านค้า โรงงาน อื่นๆ 
                 </p>
             </div>
         </div>
       </div>
     </section>
-        <section class="pt-5" id="product" >
+        
+    
+    <!-- <section class="pt-5" id="product" >
     <div class="container">
       <div data-aos="fade-up">
         <div class="branch-title text-center mb-5">
@@ -176,7 +183,7 @@
     </div>
     </div>
     </div>
-  </section>
+  </section> -->
 
 
 <section>
@@ -185,30 +192,30 @@
   <div data-aos="fade-up">
       <div class="row  mb-5 MT-5">
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-self-center  ">
-              <h2  id="Services-1" ><b>งานต่อเติม</b> </h2>
-              <h4  class="mt-3 mb-3 align=left" id="Services-2-2" style="" >&bull;&nbsp;&nbsp;&nbsp;ต่อเติมครัว</h4>
-              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;โรงจอดรถ , กันสาด</h4>
-              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;Outdoor living solutions</h4>
+              <h2  id="Services-1" ><b>งานก่อสร้าง</b> </h2>
+              <h4  class="mt-3 mb-3 align=left" id="Services-2-2" style="" >&bull;&nbsp;&nbsp;&nbsp;รับปลูกบ้านพักอาศัย</h4>
+              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp; อาคาร ,ตึก </h4>
+              <h4  class="align=left"  id="Services-2-2">&bull;&nbsp;&nbsp;&nbsp;โรงงาน และงานต่อเติมบ้าน</h4>
              
         </div>
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
-            <img src="<?=base_url('assets/img/service/service-1.png');?>" id="about-product" class="img-fluid ">
+            <img src="<?=base_url('assets/img/portfolio/18705.jpg');?>" id="about-product" class="img-fluid ">
         </div>
-      </div>
-      </div>
-      </div>
+  </div>
+  </div>
+  </div>
 
     <div class="icon-box pt-0 mt-0 mb-0 pb-0  " style="background-color: #eaeaea; padding-right: 0px;padding-left: 0px; ">
        <div data-aos="fade-up">
          <div class="row  mb-0">
  
               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6  d-none  d-md-none d-lg-block d-xl-block   ">
-                  <img src="<?=base_url('assets/img/service/service-3.png');?>" id="about-product" class="img-fluid ">
+                  <img src="<?=base_url('assets/img/portfolio/18716.jpg');?>" id="about-product" class="img-fluid ">
               </div>
               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 d-none  d-md-none d-lg-block d-xl-block align-self-center  ">
-                  <h2  id="Services-1" ><b>งาน Renovate</b> </h2>
-                  <h4 class="mt-3 mb-3" id="Services-2">&bull;&nbsp;&nbsp;&nbsp;Renovateบ้าน</h4>
-                  <h4  id="Services-2">&bull;&nbsp;&nbsp;&nbsp;Renovateคอนโด</h4> 
+                  <h2  id="Services-1" ><b>งานขออนุญาติก่อสร้างอาคาร</b> </h2>
+                  <h4 class="mt-3 mb-3" id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ยื่นขออนุญาตก่อสร้าง</h4>
+                  <h4  id="Services-2">&bull;&nbsp;&nbsp;&nbsp;ไฟฟ้า, ประปา, โทรศัพท์ ฯลฯ</h4> 
               </div>        
           </div>
 
@@ -229,26 +236,28 @@
       <div data-aos="fade-up">
         <div class="row  mb-0">
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-self-center  ">
-              <h2  id="Services-1" ><b>งานสร้างบ้านเดี่ยว</b> </h2>
-              <h4 class="mt-3 mb-3"  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;บ้านเดี่ยว 1ชั้น</h4>
-              <h4  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;บ้านเดี่ยว 2ชั้น</h4>
-              <h4  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;บ้านเดี่ยว 3ชั้น</h4>
+              <h2  id="Services-1" ><b>งานระบบต่างๆ</b> </h2>
+              <h4 class="mt-3 mb-3"  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;รับงานเดินระบบไฟ  </h4>
+              <h4  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;ระบบประปา </h4>
+              <h4  id="Services-2-3">&bull;&nbsp;&nbsp;&nbsp;อาคารบ้านพักอาศัย</h4>
       </div>
         <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
-            <img src="<?=base_url('assets/img/service/service-2.png');?>" id="about-product" class="img-fluid ">
+            <img src="<?=base_url('assets/img/portfolio/243027284_2084379695061402_6182264817615997662_n.jpg');?>" id="about-product" class="img-fluid ">
         </div>
         </div>
       </div>
       </div>
     </div>
 </section>
+<br>
+<br>
   <section class="pt-3 pb-3" id="review">
       <div class="container wow fadeInUp" align="center">
         <div class="">
           <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
             <div data-aos="fade-up">
               <div class="section-title">
-                <h2 style="color:  #ff1616;" id="portfolio">ผลงานของเรา</h2>
+                <h2 style="color:  #b8a36c;" id="portfolio">ผลงานของเรา</h2>
               </div>
             </div>
             </div>
@@ -257,8 +266,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">
-                          <a href="<?=base_url('assets/img/service/service1.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service1.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets/img/portfolio/18722.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets/img/portfolio/18722.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -268,8 +277,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">
-                          <a href="<?=base_url('assets/img/service/service2.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service2.png');?>" class="img-rounded" style="  width:100%;">
+                          <a href="<?=base_url('assets/img/portfolio/18736.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
+                            <img src="<?=base_url('assets/img/portfolio/18736.jpg');?>" class="img-rounded" style="  width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -279,8 +288,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">
-                          <a href="<?=base_url('assets/img/service/service3.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service3.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets/img/portfolio/18720.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets/img/portfolio/18720.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -290,8 +299,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                         <a href="<?=base_url('assets/img/service/service4.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service4.png');?>" class="img-rounded" style="  width:100%;">
+                         <a href="<?=base_url('assets/img/portfolio/18725.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
+                            <img src="<?=base_url('assets/img/portfolio/18725.jpg');?>" class="img-rounded" style="  width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -304,8 +313,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service5.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service5.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18724.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18724.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -315,8 +324,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service6.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service6.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18726.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18726.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -326,8 +335,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service7.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service7.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18740.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18740.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -337,8 +346,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service8.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service8.png');?>" class="img-rounded" style="  width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18738.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18738.jpg');?>" class="img-rounded" style="  width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -350,8 +359,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service9.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service9.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18737.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18737.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -361,8 +370,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service10.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service10.png');?>" class="img-rounded" style="  width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18734.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18734.jpg');?>" class="img-rounded" style="  width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -372,8 +381,8 @@
                       <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service11.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service11.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\242582400_2056675387831833_4462608586295164768_n.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style="  width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\242582400_2056675387831833_4462608586295164768_n.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -383,8 +392,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service12.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service12.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\242391207_2056675491165156_294731706597811359_n.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\242391207_2056675491165156_294731706597811359_n.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -396,8 +405,8 @@
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
-                          <a href="<?=base_url('assets/img/service/service13.png');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
-                            <img src="<?=base_url('assets/img/service/service13.png');?>" class="img-rounded" style=" width:100%;">
+                          <a href="<?=base_url('assets\img\portfolio\18712.jpg');?>" data-toggle="lightbox" data-gallery="gallery" class="img-rounded" style=" width: 100%;">
+                            <img src="<?=base_url('assets\img\portfolio\18712.jpg');?>" class="img-rounded" style=" width:100%;">
                           </a>
                         </div>
                       </figure>
@@ -436,7 +445,7 @@
                       </figure>
                     </div>
                </div>
-               <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">  
+               <!-- <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">  
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
@@ -446,7 +455,8 @@
                         </div>
                       </figure>
                     </div>
-               </div>          <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+               </div>         
+               <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
@@ -456,7 +466,8 @@
                         </div>
                       </figure>
                     </div>
-               </div>          <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+               </div>         
+                <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
             <div class="hover01 column">
                       <figure>
                         <div data-aos="fade-up">  
@@ -477,7 +488,7 @@
                         </div>
                       </figure>
                     </div>
-               </div>
+               </div> -->
           </div>
           </div>
         </div>
@@ -491,24 +502,24 @@
         <h1  class="text-center mb-5" id="text-center1">ติดต่อเรา</h1>
           <div class="row ">
             <div class="col-12 col-sm-12 col-lg-6 col-md-6 col-xl-6  wow fadeInUp ">
-            <a href=" tel:0936907320" target="_blank">
-              <h4 id="footer-1" ><img src="<?=base_url('assets/img/contact/iconcon+-01.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; 093 690 7320</h4>
+            <a href="tel:086-309-3887" target="_blank">
+              <h4 id="footer-1" ><img src="<?=base_url('assets/img/icon/tel.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; 086-309-3887 , 082-063-1331 </h4>
             </a>
-            <a href=" https://line.me/ti/p/WUMqOfogep" target="_blank">
-              <h4  id="footer-1" style="color: #777777;"><img src="<?=base_url('assets/img/contact/iconcon+-02.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; @Conplushomeservice  </h4>
+            <a href=" https://bit.ly/3tgRiTd" target="_blank">
+              <h4  id="footer-1" style="color: #777777;"><img src="<?=base_url('assets/img/icon/line.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; thaijapan16 </h4>
             </a>
-            <a href="https://m.facebook.com/Conplushomeservice/" target="_blank">
-              <h4 id="footer-1"  style="color: #777777;"><img src="<?=base_url('assets/img/contact/iconcon+-03.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; @Conplushomeservice  </h4>
+            <a href="https://www.facebook.com/Thaijapanconstruction/" target="_blank">
+              <h4 id="footer-1"  style="color: #777777;"><img src="<?=base_url('assets/img/icon/fb.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; Thaijapanconstruction  </h4>
             </a>
-              <a href=" #" target="_blank">
-              <h4  id="footer-1" style="color: #777777;"><img src="<?=base_url('assets/img/contact/iconcon+-04.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; conplus.homeservice@gmail.com </h4>
+              <a href="mailto:thawitchat@gmail.com" target="_blank">
+              <h4  id="footer-1" style="color: #777777;"><img src="<?=base_url('assets/img/icon/email.png');?>" style="width: 9%;">&nbsp;&nbsp;&nbsp; thawitchat@gmail.com </h4>
             </a>
             </div>
     <div class="col-12 col-sm-12 col-lg-6 col-md-6 col-xl-6 mb-2 wow fadeInUp">
         <div class="justify-content-center">
         <a href="#" target="_blank">
-        <a href=" https://line.me/ti/p/WUMqOfogep" target="_blank">
-                <img src="<?=base_url('assets/img/contact/qrcode.png');?>"  id="qrcode" class="mb-2" >
+        <a href=" https://bit.ly/3tgRiTd" target="_blank">
+                <img src="<?=base_url('assets/img/contact/QR.PNG');?>"  id="qrcode" class="mb-2" >
         </a>
           </div>
           </div>
@@ -520,7 +531,7 @@
         <div class="row">
         <div class="col-12 col-sm-12 col-lg-12 col-md-12 col-xl-12   ">
           <div align="center">
-            <img src="<?=base_url('assets/img/logo/logocon+.png');?>" id="img_footer" class="img-logo" /></img>
+            <img src="<?=base_url('assets/img/logo/logo.png');?>" id="img_footer" class="img-logo" /></img>
           </div> 
           </div>
         </div>
@@ -536,21 +547,21 @@
         <div align="center">
               <div id="icon-footer" class=""   >
                 <ul style="padding-left: 0px;">
-                    <a href=" https://line.me/ti/p/WUMqOfogep" target="_blank">
-                        <img src="<?=base_url('assets/img/contact/iconcon+-02.png');?>"  id="logofollowme" class="mb-2 "  >
+                    <a href=" https://bit.ly/3tgRiTd" target="_blank">
+                        <img src="<?=base_url('assets/img/icon/line.png');?>"  id="logofollowme" class="mb-2 "  >
                     </a>
-                    <a href=" https://m.facebook.com/Conplushomeservice/" target="_blank">
-                    <img src="<?=base_url('assets/img/contact/iconcon+-03.png');?>"  id="logofollowme" class="mb-2 " >
+                    <a href="https://www.facebook.com/Thaijapanconstruction/" target="_blank">
+                    <img src="<?=base_url('assets/img/icon/fb.png');?>"  id="logofollowme" class="mb-2 " >
                   </a>
-                    <a href=" #" target="_blank">
-                  <img src="<?=base_url('assets/img/contact/iconcon+-04.png');?>"  id="logofollowme" class="mb-2 " >
+                    <a href="mailto:thawitchat@gmail.com" target="_blank">
+                  <img src="<?=base_url('assets/img/icon/email.png');?>"  id="logofollowme" class="mb-2 " >
                   </a>
-                  <a href=" #" target="_blank">
-                  <img src="<?=base_url('assets/img/contact/iconcon+-05.png');?>"  id="logofollowme" class="mb-2 "  >
+                  <a href="tel:086-309-3887" target="_blank">
+                  <img src="<?=base_url('assets/img/icon/tel.png');?>"  id="logofollowme" class="mb-2 "  >
                   </a>
                 </ul>
               </div>
-                <div class="copyright" style="color:#0d0d0d;">Copyright © 2021 CONPLUS CO.,LTD. </div>
+                <div class="copyright" style="color:#0d0d0d;">Copyright © 2021 Thai japan Construction CO.,LTD. </div>
          </div>
          </div>
          </div>
@@ -576,7 +587,7 @@
   AOS.init();
   new WOW().init();
 </script>
-
+ 
 </body>
 
 </html>

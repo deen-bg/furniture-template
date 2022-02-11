@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
  
-$config['base_url'] = 'https://localhost/thaijapan-demo/';
+$config['base_url'] = 'https://localhost/furniture-demo/';
 
 $config['index_page'] = '';
 
